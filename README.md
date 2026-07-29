@@ -15,14 +15,14 @@ Tkinter GUI flashcard application for vocabulary memorization.
 
 ## Installation
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/MoayadAlshehry/flashcard-app.git
    cd flashcard-app
-   ```
+```
 2. Install dependencies:
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 ## Usage
 Run the application:

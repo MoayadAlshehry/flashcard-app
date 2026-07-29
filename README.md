@@ -17,7 +17,7 @@ A graphical flashcard application designed to help users memorize vocabulary. Bu
 ## Installation
 1. Clone the repository:
    `ash
-   git clone https://github.com/yourusername/flashcard-app.git
+   git clone https://github.com/MoayadAlshehry/flashcard-app.git
    cd flashcard-app
    `
 2. Install the required dependencies:

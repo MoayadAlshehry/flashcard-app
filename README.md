@@ -16,18 +16,18 @@ A graphical flashcard application designed to help users memorize vocabulary. Bu
 
 ## Installation
 1. Clone the repository:
-   `ash
+   ````bash
    git clone https://github.com/MoayadAlshehry/flashcard-app.git
    cd flashcard-app
    `
 2. Install the required dependencies:
-   `ash
+   ````bash
    pip install -r requirements.txt
    `
 
 ## Usage
 Start the application:
-`ash
+````bash
 python main.py
 `
 - Click the **✓** button if you knew the word. It won't be shown again.
